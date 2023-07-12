@@ -4,13 +4,13 @@ This repository contains the code for the blog post on [Understanding gradient d
 
 You can run the notebooks in *Google Colab* or *Binder* by clicking on one of the buttons below:
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/FabrizioMusacchio/gradient_descent/HEAD)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/FabrizioMusacchio/Gradient_Descent/HEAD?labpath=gradient_descent_demo_1D.ipynb)
 
 One parameter problem:
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/FabrizioMusacchio/gradient_descent/blob/master/gradient_descent_demo_1D.ipynb)  
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/FabrizioMusacchio/gradient_descent/blob/master/gradient_descent_demo_1D.ipynb)   [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/FabrizioMusacchio/Gradient_Descent/HEAD?labpath=gradient_descent_demo_1D.ipynb)
 
 Two parameter problem:
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/FabrizioMusacchio/gradient_descent/blob/master/gradient_descent_demo_2D.ipynb)   
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/FabrizioMusacchio/gradient_descent/blob/master/gradient_descent_demo_2D.ipynb)   [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/FabrizioMusacchio/Gradient_Descent/HEAD?labpath=gradient_descent_demo_2D.ipynb)
 
 
 For reproducibility:
